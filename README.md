@@ -15,6 +15,6 @@ ultralytics==8.0.111
 #python 3.9.12
 
 # run streamlit
-streamlit run your_script.py
+streamlit run app.py
 
 
