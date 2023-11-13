@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['fall detected', 'sitting', 'walking']
+
+roboflow:
+  workspace: vietnam-national-university-nizmq
+  project: fall-detection-fxpux
+  version: 13
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/vietnam-national-university-nizmq/fall-detection-fxpux/dataset/13
